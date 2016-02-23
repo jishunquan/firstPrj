@@ -1,0 +1,1 @@
+1、 苹果近两年WWDC都发布了什么新技术?WWDC 2014 推出了 OS X 10.10 Yosemite 和 IOS 8 操作系统，同时还推出了 SWIFT语言 WWDC 2015 推出了 OS X 10.11、IOS 9、WATCH OS 2 操作系系统，同时推出了APPLE TV和APPLE PAY. 
